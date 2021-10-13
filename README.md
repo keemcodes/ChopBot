@@ -1,5 +1,5 @@
 # ChopBot
-This is an bot I made using AutoHotkey to train carpentry in Mabingoi :)
+This is an bot I made using AutoHotkey to train carpentry in Mabinogi back in 2014-2015 (i think)
 
 
 
